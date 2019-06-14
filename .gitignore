@@ -13,3 +13,5 @@ examples/iexcloud/dist/
 *.out
 
 examples/iexcloud/config.toml
+
+.idea/
